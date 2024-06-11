@@ -18,4 +18,4 @@ The primary goal of this hackathon was to develop a machine learning model capab
 
 2. Machine Learning Classification Models: Various classification algorithms were explored and implemented to predict expenditure ranges accurately.
 
-3. Data Analysis: Tools like Pandas and NumPy were employed for data manipulation and analysis, ensuring that the data was thoroughly examined and processed correctly.
+3. Data Analysis: Tools like Pandas,NumPy, Matplotlib,Seaborn were employed for data manipulation and analysis, ensuring that the data was thoroughly examined and processed correctly.
