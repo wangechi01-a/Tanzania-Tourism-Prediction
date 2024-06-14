@@ -12,7 +12,7 @@ The primary goal of this hackathon was to develop a machine learning model capab
 
 1. Enhancing the Tourism Sector: By accurately classifying tourist expenditures, we can improve tourism services, benefiting both visitors and the Tanzanian economy.
 
-2. Facilitating Planning and Estimation: The model helps in automatically estimating tourist expenditures, aiding in planning and budgeting for tourists and tourism-related organizations alike.
+2. Facilitating Planning and Estimation: The model helps in automatically estimating tourist expenditures, aiding in planning and budgeting for tourists.
 
 3. Promoting Global Tourism: This model provides a useful tool for tourists worldwide, enabling them to estimate their potential expenditures when planning a trip to Tanzania.
 
