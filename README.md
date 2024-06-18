@@ -1,12 +1,10 @@
-# Tanzania-Tourism-Prediction
+# Tanzania-Tourism-Prediction Challenge
 
 ## Title: Tanzania-Tourism-Prediction
 
-
-
 ## Aim
 
-The primary goal of this hackathon was to develop a machine learning model capable of classifying the expenditure ranges of tourists visiting Tanzania. This model is designed to assist tour operators and the Tanzania Tourism Board in estimating tourists' expenditures, offering valuable insights for better planning and decision-making.
+The objective of this hackathon is to develop a machine learning model to predict what a tourist will spend when visiting Tanzania.The model can be used by different tour operators and the Tanzania Tourism Board to automatically help tourists across the world estimate their expenditure before visiting Tanzania.
 
 ## Importance of the Challenge
 
